@@ -7,7 +7,7 @@
 2. 拖动你的 APK 文件到 `decompile.bat` 上
 3. 等几秒钟，就会蹦出源码查看窗口啦
 
-# oneKeyRecompileAPK
+# Android-Decompiler
 ## What's this?
 It's a tool to decompile `.apk` file to source file.
 
